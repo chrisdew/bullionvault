@@ -1,0 +1,23 @@
+{
+  "name": "bullionvault",
+  "version": "0.0.0",
+  "description": "A NodeJS wrapper for the BullionVault API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisdew/bullionvault.git"
+  },
+  "keywords": [
+    "bullionvault",
+    "api"
+  ],
+  "author": "Chris Dew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdew/bullionvault/issues"
+  },
+  "homepage": "https://github.com/chrisdew/bullionvault"
+}
